@@ -90,9 +90,3 @@ node_modules
 .vercel
 ```
 
-## License
-This project is licensed under the ISC License.
-
----
-Feel free to customize this `README.md` as needed for your project!
-
